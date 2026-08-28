@@ -62,6 +62,12 @@ export default function Home() {
 
   const experienceItems = [
     {
+      company: "Feelancing",
+      role: "Full-stack Software Engineer",
+      location: "Remote",
+      dates: "January 2022 - Present",
+    },
+    {
       company: "The Blocklabs Inc.",
       role: "Full-stack Engineer Intern",
       location: "Remote",
