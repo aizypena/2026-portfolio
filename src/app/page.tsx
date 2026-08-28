@@ -62,28 +62,16 @@ export default function Home() {
 
   const experienceItems = [
     {
-      company: "IBM Software",
-      role: "Full-stack Engineer",
+      company: "The Blocklabs Inc.",
+      role: "Full-stack Engineer Intern",
       location: "Remote",
-      dates: "2025 - Present",
+      dates: "April 2026 - July 2026",
     },
     {
-      company: "Freelance Mobile Apps",
-      role: "Mobile Application Developer",
-      location: "Remote",
-      dates: "2024 - 2025",
-    },
-    {
-      company: "Product Studio",
-      role: "Frontend Developer",
-      location: "Hybrid",
-      dates: "2023 - 2024",
-    },
-    {
-      company: "Startup Lab",
-      role: "Software Engineering Intern",
-      location: "On-site",
-      dates: "2022 - 2023",
+      company: "Teratomo Corporations",
+      role: "Software Engineer Intern",
+      location: "Fairview, Quezon City, Philippines",
+      dates: "December 2025 - April 2026",
     },
   ];
 
@@ -357,7 +345,7 @@ export default function Home() {
             </p>
 
             <a
-              href="mailto:hello@example.com"
+              href="mailto:jbpena101@gmail.com"
               className="mt-10 inline-flex items-center rounded-md border border-emerald-400/60 px-6 py-3 text-sm font-medium text-emerald-200 transition hover:bg-emerald-400/10"
             >
               Say Hello
