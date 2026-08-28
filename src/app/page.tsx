@@ -64,10 +64,8 @@ export default function Home() {
   ];
 
   const contactLinks = [
-    { label: 'GitHub', href: 'https://github.com' },
-    { label: 'LinkedIn', href: 'https://www.linkedin.com' },
-    { label: 'Medium', href: 'https://medium.com' },
-    { label: 'LeetCode', href: 'https://leetcode.com' },
+    { label: 'GitHub', href: 'https://github.com/aizypena' },
+    { label: 'LinkedIn', href: 'https://www.linkedin.com/in/julyza-pe%C3%B1a/' },
   ];
 
   return (
