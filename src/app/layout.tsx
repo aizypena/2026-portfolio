@@ -16,6 +16,11 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Julyza Peña - Software Engineer",
   description: "Software Engineer specializing in web and mobile development.",
+  icons: {
+    icon: [
+      { url: '/favicon.svg', type: 'image/svg+xml' },
+    ],
+  }
 };
 
 export default function RootLayout({
