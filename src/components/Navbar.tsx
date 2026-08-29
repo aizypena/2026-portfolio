@@ -8,6 +8,7 @@ const navLinks = [
   { href: '/', label: 'Home', id: 'home' },
   { href: '/#about', label: 'About', id: 'about' },
   { href: '/#projects', label: 'Projects', id: 'projects' },
+  { href: '/#experience', label: 'Experience', id: 'experience' },
   { href: '/#contact', label: 'Contact', id: 'contact' },
 ];
 
@@ -69,7 +70,7 @@ export default function Navbar() {
         });
       },
       {
-        rootMargin: '-20% 0px -20% 0px', // triggers when section is in the middle of viewport
+        rootMargin: '-20% 0px -20% 0px',
         threshold: 0,
       }
     );
