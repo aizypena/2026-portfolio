@@ -46,7 +46,7 @@ export default function Home() {
       accent: "from-purple-500/20 to-purple-400/10",
       align: "right",
       image: gggImage,
-      link: "https://www.ggg.quest/",
+      link: "https://ggg.quest/",
     },
     {
       title: "Clean Up Australia",
