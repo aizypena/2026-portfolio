@@ -4,6 +4,7 @@ import smiImage from "@/app/assets/smi-ss.png";
 import henschaImage from "@/app/assets/henscha-ss.png";
 import gggImage from "@/app/assets/ggg-ss.png";
 import cleanupImage from "@/app/assets/cleanup-ss.png";
+import blockhubImage from "@/app/assets/blockhub-ss.png";
 import { MacWindow } from "@/components/MacWindow";
 
 export default function Home() {
@@ -58,6 +59,16 @@ export default function Home() {
       image: cleanupImage,
       link: "https://www.cleanup.org.au/",
     },
+    {
+      title: "BlockHub",
+      description:
+        "Turns scattered self-study into a guided path with verifiable proof of skill, and gives employers one funnel from coursework straight through to hiring.",
+      stack: ["Next.js (App Router)", "React 19", "TypeScript", "Tailwind CSS", "Supabase", "Prisma", "Docker", "LangChain.js", "S3/MinIO", "Anthropic Claude", "Stellar Soroban"],
+      accent: "from-blue-500/20 to-blue-400/10",
+      align: "right",
+      image: blockhubImage,
+      link: "https://blockhub.academy/",
+    }
   ];
 
   const experienceItems = [
